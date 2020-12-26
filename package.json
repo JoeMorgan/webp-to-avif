@@ -1,0 +1,11 @@
+{
+  "name": "webv-to-avif",
+  "version": "0.0.1",
+  "description": "Walks a directory structure, creating avif versions of any webp images found",
+  "author": "Joe Morgan",
+  "license": "ISC",
+  "devDependencies": {
+    "minimist": "^1.2.5",
+    "sharp": "^0.27"
+  }
+}
